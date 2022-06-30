@@ -40,6 +40,7 @@ const resultTwo = (monkeys + bananas) * monkeyfights;
 console.log(
   `Q7: The results of adding monkeys and bananas and multiplying with monkey fights: ${resultTwo}`
 );
+console.log(resultTwo);
 
 let monkeyBusiness = 90;
 console.log(`Q8: Increment monkeyBusiness: ${++monkeyBusiness}`);
